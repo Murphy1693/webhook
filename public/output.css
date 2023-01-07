@@ -517,23 +517,3 @@ video {
   --tw-text-opacity: 1;
   color: rgb(120 53 15 / var(--tw-text-opacity));
 }
-
-.text-amber-600 {
-  --tw-text-opacity: 1;
-  color: rgb(217 119 6 / var(--tw-text-opacity));
-}
-
-.text-zinc-600 {
-  --tw-text-opacity: 1;
-  color: rgb(82 82 91 / var(--tw-text-opacity));
-}
-
-.text-zinc-900 {
-  --tw-text-opacity: 1;
-  color: rgb(24 24 27 / var(--tw-text-opacity));
-}
-
-.text-zinc-400 {
-  --tw-text-opacity: 1;
-  color: rgb(161 161 170 / var(--tw-text-opacity));
-}
